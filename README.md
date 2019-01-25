@@ -1,1 +1,1 @@
-# PHP MSSQL CLASS
+# Php Mssql
